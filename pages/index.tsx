@@ -17,7 +17,7 @@ export default function Home() {
         setNavActive(false);
       }
     });
-  }, [])
+  }, [navActive])
 
   return (
     <>
