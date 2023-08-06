@@ -36,7 +36,7 @@ export default function Home() {
           <Navbar isActive={navActive} />
           <div className='h-[100vh] flex flex-col relative justify-center w-1/2 rounded-xl'>
             <div className="text-container">
-              <h1 className='text-5xl text-[#D8D9DA] inline-block'>Hi, I'm </h1>
+              <h1 className='text-5xl text-[#D8D9DA] inline-block'>Hi, I&apos;m </h1>
               <h1 className='inline-block text-5xl font-bold'>&nbsp;</h1>
               <span className='inline-block text-5xl font-bold hue-rotate-15 text-transparent bg-clip-text animate-gradient bg-gradient-to-r from-red-500 to-amber-500 bg-300%'>Armaan</span>
               <h1 className='text-5xl text-[#D8D9DA] inline-block'>.</h1>
